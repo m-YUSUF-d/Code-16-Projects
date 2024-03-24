@@ -1,0 +1,1 @@
+Üretken Akademi tarafından düzenlenen "Code 16 Oyun Akademisi" etkinliğinde 12 hafta boyunca yapacağım tüm projeler, bu repo içerisinde olacaktır.
